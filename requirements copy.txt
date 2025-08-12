@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dateutil
+sqlalchemy-utils
+python-jose[cryptography]
+passlib[bcrypt]
+alembic
+sqlalchemy[asyncio]
+python-multipart
+greenlet
+psycopg2-binary
